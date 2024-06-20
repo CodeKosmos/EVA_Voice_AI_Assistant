@@ -19,7 +19,7 @@ EVA can fetch various types of information and perform tasks such as:<br />
 System Management<br />
 EVA can perform system management tasks such as:<br />
    
-	- CPU and Memory: Reports current CPU usage and memory usage.<br />
+    - CPU and Memory: Reports current CPU usage and memory usage.<br />
     - Play Music: Plays music from YouTube based on user requests.<br />
 
 Getting Started<br />
