@@ -15,10 +15,11 @@ EVA can fetch various types of information and perform tasks such as:
     - Weather: Retrieves current weather conditions and forecasts using the OpenWeatherMap API.
     - News: Fetches the latest news headlines using the NewsAPI.
     - System Status: Provides system information such as CPU usage, memory usage, and disk space using psutil.
-
+						
 System Management
 EVA can perform system management tasks such as:
-    - CPU and Memory: Reports current CPU usage and memory usage.
+   
+	- CPU and Memory: Reports current CPU usage and memory usage.
     - Play Music: Plays music from YouTube based on user requests.
 
 Getting Started
@@ -27,9 +28,13 @@ Ensure you have Python 3 installed. You can download Python from python.org.
 
 Installation
 Clone the repository:
-git clone https://github.com/CodeKosmos/EVA_Voice_AI_Assistant.git
+git clone
+https://github.com/CodeKosmos/EVA_Voice_AI_Assistant.git
+
 cd your_repository
+
 Install required Python modules using pip:
+
 pip install -r requirements
 
 This will install the following modules:
