@@ -1,6 +1,6 @@
 # EVA_Voice_AI_Assistant
-#EVA: Enhanced Virtual Assistant
-#EVA (Enhanced Virtual Assistant) is a Python-based program designed to provide voice interaction, information retrieval, and system management functionalities using various APIs and modules.
+#EVA: Enhanced Virtual Assistant <br />
+#EVA (Enhanced Virtual Assistant) is a Python-based program designed to provide voice interaction, information retrieval, and system management functionalities using various APIs and modules. <br />
 
 Features:
 
@@ -19,7 +19,7 @@ EVA can fetch various types of information and perform tasks such as:
 System Management
 EVA can perform system management tasks such as:
    
-	- CPU and Memory: Reports current CPU usage and memory usage./n
+	- CPU and Memory: Reports current CPU usage and memory usage.
     - Play Music: Plays music from YouTube based on user requests.
 
 Getting Started
