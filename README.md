@@ -1,6 +1,6 @@
 # EVA_Voice_AI_Assistant
 #EVA: Enhanced Virtual Assistant
-EVA (Enhanced Virtual Assistant) is a Python-based program designed to provide voice interaction, information retrieval, and system management functionalities using various APIs and modules.
+#EVA (Enhanced Virtual Assistant) is a Python-based program designed to provide voice interaction, information retrieval, and system management functionalities using various APIs and modules.
 
 Features:
 
@@ -27,7 +27,7 @@ Ensure you have Python 3 installed. You can download Python from python.org.
 
 Installation
 Clone the repository:
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/CodeKosmos/EVA_Voice_AI_Assistant.git
 cd your_repository
 Install required Python modules using pip:
 pip install -r requirements
@@ -38,7 +38,6 @@ pyttsx3 - Text-to-Speech library
 wikipedia-api - Wikipedia API wrapper
 wolframalpha - WolframAlpha API client
 psutil - System and process utilities
-
 
 API Keys
 To use EVA effectively, you need API keys for the following services:
